@@ -1,6 +1,6 @@
 def op_marker():
     n=int(input("Enter an Option: "))
-    if n>0 and n<5:
+    if n>0 and n<6:
        a=int(input())
        b=int(input())
        if n==1:
